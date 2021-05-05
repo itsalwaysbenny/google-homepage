@@ -25,12 +25,14 @@
     left: 0;
     text-align: left;
     width: 50%;
+    margin-left: 10%;
 }
 #lower-right-links {
     position: relative;
     float: right;
     text-align: right;
     width: 50%;
+    margin-right: 10%;
 }
 #main-logo {
     display: block;
