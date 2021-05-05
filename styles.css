@@ -1,6 +1,38 @@
-#top-right-buttons {
-    position: absolute;
+#upper-links {
+    position: relative;
     top: 0;
-    right: 0;
+    display: flex;
+}
+#upper-left-links {
+    position: relative;
+    left: 0;
+    text-align: left;
+    width: 50%;
+}
+
+#upper-right-links {
+    position: relative;
+    float: right;
     text-align: right;
+    width: 50%;
+}
+
+#lower-links {
+    position: relative;
+    bottom: 0;
+    display: flex;
+}
+
+#lower-left-links {
+    position: relative;
+    left: 0;
+    text-align: left;
+    width: 50%;
+}
+
+#lower-right-links {
+    position: relative;
+    float: right;
+    text-align: right;
+    width: 50%;
 }
