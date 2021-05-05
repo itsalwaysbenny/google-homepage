@@ -9,27 +9,23 @@
     text-align: left;
     width: 50%;
 }
-
 #upper-right-links {
     position: relative;
     float: right;
     text-align: right;
     width: 50%;
 }
-
 #lower-links {
     position: relative;
     bottom: 0;
     display: flex;
 }
-
 #lower-left-links {
     position: relative;
     left: 0;
     text-align: left;
     width: 50%;
 }
-
 #lower-right-links {
     position: relative;
     float: right;
@@ -42,21 +38,25 @@
     margin-right: auto;
     width: 50%;
   }
-
-  #search-form {
+#search-form {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
-
-  #carbon-neutral-link {
+#carbon-neutral-link {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
-
-  #bottom-grey-bit {
+#bottom-grey-bit {
     background: #D3D3D3;
+}
+#search-bar input{
+    width: 300px;
+}
+#google-search-button {
+    margin-right: 20px;
+    margin-left: 30px;
 }
