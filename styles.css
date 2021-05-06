@@ -35,22 +35,22 @@
     margin-right: 10%;
 }
 #main-logo {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    justify-content: center;
   }
 #search-form {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    justify-content: center;
   }
 #carbon-neutral-link {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    justify-content: center;
   }
 #bottom-grey-bit {
     background: #D3D3D3;
