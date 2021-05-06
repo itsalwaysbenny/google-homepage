@@ -8,3 +8,10 @@ Did some CSS styling after reading the task again and deciding to not to concent
 I have moved the links to sort of the right positon and the logo and search bar but they do not look completly central so I will work on that tomorrow and I will also try to incorporate the google fonts and apps logo and try to get the search bar to look like the google homepage
 
 6/5/21
+Properly centred what needed to be centred using flex box
+Added google fonts to body
+Figured out about padding and margins to separate sections and each element can be padded at top bottom left and right, same with margins and borders and spacing
+
+I have manage to fix the lower links to the bottom of the page but not any of the other elements above it
+
+Tomorrow I plan to work out how to do that and make the links/search bar and buttonsd look like google's
