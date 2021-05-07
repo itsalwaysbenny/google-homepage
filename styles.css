@@ -3,46 +3,24 @@ body {
     font-size: 14px;
     margin :0;
   }
-#upper-links {
+#upper-container {
     position: relative;
     top: 0;
     display: flex;
     margin-bottom: 10%;
+    padding-top: 2%;
 }
 #upper-left-links {
     position: relative;
-    left: 0;
+    left: 5%;
     text-align: left;
     width: 50%;
 }
 #upper-right-links {
     position: relative;
-    float: right;
+    right: 5%;
     text-align: right;
     width: 50%;
-}
-#lower-links {
-    position: absolute;
-    bottom: 0;
-    display: flex;
-    background: #D3D3D3;
-    width: 100%;
-    padding-top: 2%;
-    padding-bottom:2%;
-}
-#lower-left-links {
-    position: fixed;
-    left: 0;
-    text-align: left;
-    width: 50%;
-    margin-left: 10%;
-}
-#lower-right-links {
-    position: fixed;
-    right: 0;
-    text-align: right;
-    width: 50%;
-    margin-right: 10%;
 }
 #main-logo {
     display: flex;
@@ -56,15 +34,7 @@ body {
     margin-right: auto;
     justify-content: center;
   }
-#carbon-neutral-link {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: center;
-    background: #D3D3D3;
-    padding-top: 10px;
-  }
-#search-bar input{
+  #search-bar input{
     width: 300px;
     height: 20px;
     border-top-left-radius: 10px;
@@ -92,12 +62,58 @@ body {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
 }
-#location {
+  #bottom-container {
+    display: flex;
     background: #D3D3D3;
-    border-bottom: grey solid 2px;
+    position: absolute;
+    width: 100%;
+    height: 15%;
+    bottom: 0;
+}
+#location {
+    width: 100%;
+    height: 100%;
+    top: 0; 
+}
+#carbon-neutral-link {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 10px;
     padding-bottom: 10px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+    height: 50%;
+    border-top: solid 2px;
+    border-color: rgb(919191);
+  }
+  #lower-links {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom:2%;
+}
+#lower-left-links {
+    position: fixed;
+    left: 0;
+    text-align: left;
+    width: 50%;
+    margin-left: 10%;
+}
+#lower-right-links {
+    position: fixed;
+    right: 0;
+    text-align: right;
+    width: 50%;
+    margin-right: 10%;
 }
 a {
     padding-left: 10px;
     padding-right: 10px;
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
 }
