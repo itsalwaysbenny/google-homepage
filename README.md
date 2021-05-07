@@ -15,3 +15,9 @@ Figured out about padding and margins to separate sections and each element can 
 I have manage to fix the lower links to the bottom of the page but not any of the other elements above it
 
 Tomorrow I plan to work out how to do that and make the links/search bar and buttonsd look like google's
+
+7/5/21
+This morning I have changed the font, colour and styling of the links so they look more similar to those on the google homepage
+
+I have also added another flex box for the bottom container to keep the lower links and information in. For some reason I am struggling with getting things placed where I want them to be in there.
+I need to look at resizing of boxes in flex box and how to keep the spacing relative. I would also like to move the lower links off the bottom of the page but to keep the container at the bottom
