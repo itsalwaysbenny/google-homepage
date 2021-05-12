@@ -21,3 +21,6 @@ This morning I have changed the font, colour and styling of the links so they lo
 
 I have also added another flex box for the bottom container to keep the lower links and information in. For some reason I am struggling with getting things placed where I want them to be in there.
 I need to look at resizing of boxes in flex box and how to keep the spacing relative. I would also like to move the lower links off the bottom of the page but to keep the container at the bottom
+
+12/5/21
+I was trying to style the google search bar and buttons to add in the maagnifying glass in the search bar. I have also changed the upper and lower links to header and footer, but now I need to figure out how to keep the styling.
