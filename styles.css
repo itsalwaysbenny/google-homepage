@@ -4,13 +4,13 @@ body {
     margin :0;
     color: rgba(0,0,0,0.87);
   }
-/*#upper-container {
+#upper-container {
     position: fixed;
     top: 0;
     display: flex;
     margin-bottom: 10%;
     padding-top: 2%;
-}*/
+}
 #upper-left-links {
     position: fixed;
     left: 5%;
@@ -44,7 +44,8 @@ body {
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;  
+    border-bottom-right-radius: 20px;
+    border: 1px solid grey;  
 }
 #google-search-button {
     margin-top: 50px;
