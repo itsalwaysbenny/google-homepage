@@ -24,3 +24,7 @@ I need to look at resizing of boxes in flex box and how to keep the spacing rela
 
 12/5/21
 I was trying to style the google search bar and buttons to add in the maagnifying glass in the search bar. I have also changed the upper and lower links to header and footer, but now I need to figure out how to keep the styling.
+
+13/5/21
+I have changed some things in sizing and alignment using vw instead of px or percentages.
+Overall  am pretty happy with how it looks I will spend some time next time trying to get the magnifying glass into the search bar and if not try to get some help with it.
