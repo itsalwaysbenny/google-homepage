@@ -1,3 +1,6 @@
+Link to Live Demo:
+https://itsalwaysbenny.github.io/google-homepage/
+
 In this project I intend to use what I have learned with DevTools to build a copy of Google's homepage. Skills I will use will be HTML CSS and DevTools
 
 I am struggling with creating a link to grow up like the settings link on Google homepage
@@ -28,3 +31,6 @@ I was trying to style the google search bar and buttons to add in the maagnifyin
 13/5/21
 I have changed some things in sizing and alignment using vw instead of px or percentages.
 Overall  am pretty happy with how it looks I will spend some time next time trying to get the magnifying glass into the search bar and if not try to get some help with it.
+
+14/5/21
+Added title to the page. I am pretty happy with the work I have done, there are a few things I would like to improve such as making the positioning better, improving my use of grids and flex boxes. I also do not think the code is perfect but for the project description it definitly looks like Google's homepage. Ideally the search bar would look more like Google withe the images in. Overall I am pleased with the work I have done for a first project especially looking back at the code pen projects from freecodecamp. I am publishing to The Odin Project solutions. I may come back and look at this again when I have more experience.
