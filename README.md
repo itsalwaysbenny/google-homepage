@@ -34,3 +34,7 @@ Overall  am pretty happy with how it looks I will spend some time next time tryi
 
 14/5/21
 Added title to the page. I am pretty happy with the work I have done, there are a few things I would like to improve such as making the positioning better, improving my use of grids and flex boxes. I also do not think the code is perfect but for the project description it definitly looks like Google's homepage. Ideally the search bar would look more like Google withe the images in. Overall I am pleased with the work I have done for a first project especially looking back at the code pen projects from freecodecamp. I am publishing to The Odin Project solutions. I may come back and look at this again when I have more experience.
+
+17/5/21
+I have used CSS grid to change layout of the search bar and buttons instead of flexbox. It now stays in the correct place when the opening on a different sized monitor which it did not before. 
+I have however lost all functionality of the buttons and input bar because I could not figure out how to move them whereas the divs just worked. I should look into this more but am happy with how the overall project looks now.
