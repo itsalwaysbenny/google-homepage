@@ -63,6 +63,10 @@ body {
     border-bottom-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    border: none;
+}
+#google-search-button:focus {
+    background-color: rgba(211, 211, 211, 0.171);
 }
 #im-feeling-lucky {
     opacity: 1;
@@ -78,6 +82,10 @@ body {
     border-bottom-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    border: none;
+}
+#im-feeling-lucky:focus {
+    background-color: rgba(211, 211, 211, 0.171);
 }
 footer {
     display: flex;
