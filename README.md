@@ -38,3 +38,7 @@ Added title to the page. I am pretty happy with the work I have done, there are 
 17/5/21
 I have used CSS grid to change layout of the search bar and buttons instead of flexbox. It now stays in the correct place when the opening on a different sized monitor which it did not before. 
 I have however lost all functionality of the buttons and input bar because I could not figure out how to move them whereas the divs just worked. I should look into this more but am happy with how the overall project looks now.
+
+
+18/5/21
+I have changed the buttons and seacrch bar to be input now ijnstead of just a div so the search bar can accept text and the buttons change on click. I am going to leave this now and move on to another lesson now as I think that I will be better off learning new things rather than tinkering to get this perfect. I can always come back when I have more knowledge and see how it looks
